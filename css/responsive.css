@@ -1,0 +1,70 @@
+
+
+@media(max-width:575.99px){
+    .banner_main_text h1{
+        font-size: 40px;
+    }
+    .banner_main_text h2{
+        font-size: 32px;
+    }
+    .banner_main_text h4{
+        font-size: 24px;
+    }
+    .banner_main_text a{
+        font-size: 24px;
+        padding: 10px;
+    }
+    .banner_next{
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        font-size: 30px;
+        left: 30px;
+    }
+    .banner_previous{
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        font-size: 30px;
+    }
+
+
+    .footer-row{
+        display: flex;
+    }
+    .footer-items{
+        width: 50%;
+    }
+    .footer-items-main li{
+        display: block;
+        padding: 10px 0;
+    }
+    .loan-dn{
+        display: none;
+    }
+
+    .bottom_to_top i{
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 18px;
+    }
+
+}
+
+@media(max-width:991.99px){
+    .nav-item{
+        padding: 10px 0;
+    }
+    .canvas-bar-btn{
+        margin-left: 10px;
+    }
+    .nav-logo{
+        text-align: left;
+    }
+}
+@media(min-width:991.99px) and (max-width:1200px){
+    .nav-logo a{
+        left: 60%;
+    }
+}
